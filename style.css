@@ -1,0 +1,13 @@
+
+#myMargins1 {
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+
+.header {
+	background: url(img/blackWood.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+}
