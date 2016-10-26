@@ -55,9 +55,15 @@ p {
 
 .myMarginsProjects {
     /*margin-bottom: 80px;*/
-    margin-top: 8em;
+    margin-top: 3em;
     margin-bottom: 1.5em;
     text-align: center;
+}
+
+#anchorthumbnail {
+    display: block;
+    width: 65%;
+    margin: auto;
 }
 
 #thumbnail {
